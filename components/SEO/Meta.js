@@ -42,7 +42,7 @@ export default function Meta() {
             <meta name="og:locale" content="en_IN" />
             <meta name="og:type" content="website" />
 
-            <link rel="icon" href="/images/logos/fevicon.png" />
+            <link rel="icon" href="/images/logos/favicon.png" />
             <link rel="apple-touch-icon" href="/images/logos/favicon.png" />
             <link rel="preload" href="https://fonts.googleapis.com/css2?family=Ubuntu:wght@300;400;500;700&display=swap" as="style" />
             <link href="https://fonts.googleapis.com/css2?family=Ubuntu:wght@300;400;500;700&display=swap" rel="stylesheet"></link>
