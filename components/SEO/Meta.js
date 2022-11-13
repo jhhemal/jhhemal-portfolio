@@ -4,7 +4,6 @@ import Head from 'next/head';
 export default function Meta() {
     return (
         <Head>
-           /* Primary Meta Tags */
             <title>Jahidul Hasan Hemal | Software Engineer | Data Scientiest </title>
             <meta charSet="utf-8" />
             <meta name="title" content="Jahidul Hasan Hemal - Software Engineer | Google Developer Expert | " />
@@ -19,14 +18,13 @@ export default function Meta() {
             <meta name="viewport" content="width=device-width, initial-scale=1" />
             <meta name="theme-color" content="#E95420" />
 
-            /* Search Engine */
             <meta name="image" content="images/logos/fevicon.png" />
-            /* Schema.org for Google */
+            
             <meta itemProp="name" content="Jahidul Hasan Hemal Portfolio - Software Engineer | Google Developer Expert" />
             <meta itemProp="description"
                 content="Jahidul Hasan Hemal's (jhhemal) Personal Portfolio Website. Made with Ubuntu 20.4 (Linux) theme by Next.js and Tailwind CSS. Software Engineer, Google Developer Expert." />
             <meta itemProp="image" content="images/logos/fevicon.png" />
-            /* Twitter */
+            
             <meta name="twitter:card" content="summary" />
             <meta name="twitter:title" content="Jahidul Hasan Hemal - Software Engineer | Google Developer Expert" />
             <meta name="twitter:description"
@@ -34,7 +32,7 @@ export default function Meta() {
             <meta name="twitter:site" content="jhhemal" />
             <meta name="twitter:creator" content="jhhemal" />
             <meta name="twitter:image:src" content="images/logos/logos.png" />
-            /* Open Graph general (Facebook, Pinterest & Google+) */
+            
             <meta name="og:title" content="Jahidul Hasan Hemal - Software Engineer | Google Developer Expert" />
             <meta name="og:description"
                 content="Jahidul Hasan Hemal's (jhhemal) Personal Portfolio Website. Made with Ubuntu 20.4 (Linux) theme by Next.js and Tailwind CSS. Software Engineer, Google Developer Expert." />
