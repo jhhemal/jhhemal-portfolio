@@ -18,12 +18,12 @@ export default function Meta() {
             <meta name="viewport" content="width=device-width, initial-scale=1" />
             <meta name="theme-color" content="#E95420" />
 
-            <meta name="image" content="images/logos/fevicon.png" />
+            <meta name="image" content="/images/logos/fevicon.png" />
             
             <meta itemProp="name" content="Jahidul Hasan Hemal Portfolio - Software Engineer | Google Developer Expert" />
             <meta itemProp="description"
                 content="Jahidul Hasan Hemal's (jhhemal) Personal Portfolio Website. Made with Ubuntu 20.4 (Linux) theme by Next.js and Tailwind CSS. Software Engineer, Google Developer Expert." />
-            <meta itemProp="image" content="images/logos/fevicon.png" />
+            <meta itemProp="image" content="/images/logos/fevicon.png" />
             
             <meta name="twitter:card" content="summary" />
             <meta name="twitter:title" content="Jahidul Hasan Hemal - Software Engineer | Google Developer Expert" />
@@ -31,19 +31,19 @@ export default function Meta() {
                 content="Jahidul Hasan Hemal's (jhhemal) Personal Portfolio Website. Made with Ubuntu 20.4 (Linux) theme by Next.js and Tailwind CSS. Software Engineer, Google Developer Expert" />
             <meta name="twitter:site" content="jhhemal" />
             <meta name="twitter:creator" content="jhhemal" />
-            <meta name="twitter:image:src" content="images/logos/logos.png" />
+            <meta name="twitter:image:src" content="/images/logos/logos.png" />
             
             <meta name="og:title" content="Jahidul Hasan Hemal - Software Engineer | Google Developer Expert" />
             <meta name="og:description"
                 content="Jahidul Hasan Hemal's (jhhemal) Personal Portfolio Website. Made with Ubuntu 20.4 (Linux) theme by Next.js and Tailwind CSS. Software Engineer, Google Developer Expert." />
-            <meta name="og:image" content="images/logos/logos.png" />
+            <meta name="og:image" content="/images/logos/logos.png" />
             <meta name="og:url" content="http://jhhemal.dev/" />
             <meta name="og:site_name" content="Jahidul Hasan Hemal Personal Portfolio" />
             <meta name="og:locale" content="en_IN" />
             <meta name="og:type" content="website" />
 
-            <link rel="icon" href="images/logos/fevicon.png" />
-            <link rel="apple-touch-icon" href="images/logos/favicon.png" />
+            <link rel="icon" href="/images/logos/fevicon.png" />
+            <link rel="apple-touch-icon" href="/images/logos/favicon.png" />
             <link rel="preload" href="https://fonts.googleapis.com/css2?family=Ubuntu:wght@300;400;500;700&display=swap" as="style" />
             <link href="https://fonts.googleapis.com/css2?family=Ubuntu:wght@300;400;500;700&display=swap" rel="stylesheet"></link>
         </Head>
