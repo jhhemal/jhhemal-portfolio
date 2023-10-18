@@ -5,8 +5,8 @@ export class Chrome extends Component {
         super();
         this.home_url = 'https://www.google.com/webhp?igu=1';
         this.state = {
-            url: 'https://viviantang20.github.io/',
-            display_url: "https://viviantang20.github.io/",
+            url: 'https://jhhemal.github.io/',
+            display_url: "https://jhhemal.github.io/",
         }
     }
 
