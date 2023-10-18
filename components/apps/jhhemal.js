@@ -394,6 +394,6 @@ function Projects() {
 }
 function Resume() {
     return (
-        <iframe className="h-full w-full" src="./files/Jahidul_Hasan_Resume.pdf" title="vivek patel resume" frameBorder="0"></iframe>
+        <iframe className="h-full w-full" src="./files/jhhemal_resume.pdf" title="vivek patel resume" frameBorder="0"></iframe>
     )
 }
